@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#msvc output dirs
+Release/
+Debug/
+_projectfiles/vs2017/.vs/worldsim/v15/

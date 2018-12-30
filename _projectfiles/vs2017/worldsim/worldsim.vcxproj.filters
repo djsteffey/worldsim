@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="code">
+      <UniqueIdentifier>{fea84bc6-c147-4f45-b145-3dd295139803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{4f79c8e6-aabc-4078-9aaf-df5ac799a519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources\maps">
+      <UniqueIdentifier>{fbeee581-c315-4b72-9028-8564c6f5a630}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\code\main.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\code\CWorld.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\code\CFps.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\code\CWorld.hpp">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\code\CFps.hpp">
+      <Filter>code</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\resources\map\thinking.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\UK.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\USA.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\utopia.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\westeros.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_bridge.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_connect.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_connectXL.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_discrete_connect.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_map.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_map_large.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\world_map_large_rivers.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\alliance.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\canadian_flag.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\ded.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\europe.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\flatlands.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\fun.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\fun2.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\homestar.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\hopson.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\hopson_large.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\horde.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\lines.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\LUL.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\mars.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\maze.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\million.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\pepe.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\quad.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\quad_lines.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\shrek.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\skellyslogo.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\sonic.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\squiggle.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\squre.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+    <Image Include="..\..\..\resources\map\Swirl.png">
+      <Filter>resources\maps</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
